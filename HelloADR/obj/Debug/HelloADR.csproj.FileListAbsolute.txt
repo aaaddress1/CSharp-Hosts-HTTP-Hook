@@ -1,0 +1,17 @@
+C:\Users\Adr\AppData\Local\Temporary Projects\HelloADR\obj\Debug\HelloADR.csprojResolveAssemblyReference.cache
+C:\Users\Adr\AppData\Local\Temporary Projects\HelloADR\bin\Debug\HelloADR.exe
+C:\Users\Adr\AppData\Local\Temporary Projects\HelloADR\bin\Debug\HelloADR.pdb
+C:\Users\Adr\AppData\Local\Temporary Projects\HelloADR\obj\Debug\HelloADR.exe
+C:\Users\Adr\AppData\Local\Temporary Projects\HelloADR\obj\Debug\HelloADR.pdb
+C:\Users\Adr\Desktop\HelloADR\HelloADR\obj\Debug\HelloADR.exe
+C:\Users\Adr\Desktop\HelloADR\HelloADR\obj\Debug\HelloADR.pdb
+C:\Users\Adr\Desktop\HelloADR\HelloADR\bin\Debug\HelloADR.exe.config
+C:\Users\Adr\Desktop\HelloADR\HelloADR\obj\Debug\HelloADR.csprojResolveAssemblyReference.cache
+C:\Users\Adr\Desktop\HelloADR\HelloADR\bin\Debug\HelloADR.exe
+C:\Users\Adr\Desktop\HelloADR\HelloADR\bin\Debug\HelloADR.pdb
+F:\C#Source\TCP_Listen_Host_Hook\HelloADR\bin\Debug\HelloADR.exe.config
+F:\C#Source\TCP_Listen_Host_Hook\HelloADR\obj\Debug\HelloADR.exe
+F:\C#Source\TCP_Listen_Host_Hook\HelloADR\obj\Debug\HelloADR.pdb
+F:\C#Source\TCP_Listen_Host_Hook\HelloADR\obj\Debug\HelloADR.csprojResolveAssemblyReference.cache
+F:\C#Source\TCP_Listen_Host_Hook\HelloADR\bin\Debug\HelloADR.exe
+F:\C#Source\TCP_Listen_Host_Hook\HelloADR\bin\Debug\HelloADR.pdb
